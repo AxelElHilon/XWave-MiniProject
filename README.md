@@ -23,7 +23,7 @@ Este proyecto es una landing page responsive para promocionar los auriculares **
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/landing-page-xwave.git
+   git clone https://github.com/AxelElHilon/XWave-MiniProject
 
 
 ---
@@ -60,6 +60,3 @@ Este proyecto es una landing page responsive para promocionar los auriculares **
 - **Pruebas A/B:** Implementar pruebas A/B para evaluar qué versiones de la página generan más conversiones o interacciones.
 - **Feedback del usuario:** Agregar más elementos visuales, como confirmaciones cuando un usuario realice una acción, podría mejorar aún más la UX.
 
----
-
-Con este **README.md** y el análisis de **UX/UI**, ahora tienes un buen punto de partida para documentar tu proyecto y darle una capa profesional. ¡Sigue mejorando y experimentando!
