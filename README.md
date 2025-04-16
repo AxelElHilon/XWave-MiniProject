@@ -17,7 +17,7 @@ Este proyecto es una landing page responsive para promocionar los auriculares **
 - **CSS3** - Estilos y diseño
 - **JavaScript** - Funcionalidades interactivas (navegación, modales, transiciones)
 - **Google Fonts** - Fuente **Poppins** para la tipografía
-- **Font Awesome** - Iconos sociales para el pie de página
+
 
 ## Cómo Usar
 
