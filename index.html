@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page - XWave</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div>
+            <img src="img/slideshare.png" alt="Logo de la empresa">
+        </div>
+        <!-- Botón para abrir el menú en dispositivos móviles -->
+        <button class="menu-toggle">☰</button>
+        <!-- Menú de navegación -->
+        <nav class="nav-links">
+            <a href="#">Inicio</a>
+            <a href="#">Características</a>
+            <a href="#">Comprar</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <main class="hero">
+        <div class="hero-image">
+            <img src="img/auriculares.png" alt="Imagen de los auriculares">
+        </div>
+        <div class="hero-text">
+            <strong>Auriculares</strong>
+            <p><em>La mejor experiencia sonora sin cables</em></p>
+            <button id="buy-button">Comprar ahora</button>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span id="close-modal" class="close">&times;</span>
+            <h2>¡Has seleccionado los auriculares!</h2>
+            <p>¿Estás listo para completar tu compra?</p>
+            <button id="go-to-checkout">Ir al Checkout</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-container">
+            <p>&copy; 2025 XWave. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Sección de Checkout -->
+    <section id="checkout">
+        <h2>Checkout</h2>
+        <p>Detalles de tu compra</p>
+        <!-- Aquí puedes agregar un formulario de compra o detalles del producto -->
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
